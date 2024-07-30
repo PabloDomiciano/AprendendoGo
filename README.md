@@ -1,1 +1,1 @@
-Este repositório tem como finalidade a estruturação e a aprendizagem da linguagem Go, baseado no curso disponível no YouTube pelo canal Aprendendo GO. Para acessar o curso youtube.com/watch?v=QT7YvrEWMGE&list=PLCKpcjBB_VlBsxJ9IseNxFllf-UFEXOdg&index=9
+Este repositório tem como finalidade a estruturação e a aprendizagem da linguagem Go, baseado no curso disponível no YouTube pelo canal Aprendendo GO. 
